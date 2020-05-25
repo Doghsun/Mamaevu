@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Mamaevu/static/css/main.470a7d4c.chunk.css",
+    "main.js": "/Mamaevu/static/js/main.bce0b38f.chunk.js",
+    "main.js.map": "/Mamaevu/static/js/main.bce0b38f.chunk.js.map",
+    "runtime-main.js": "/Mamaevu/static/js/runtime-main.369cb96c.js",
+    "runtime-main.js.map": "/Mamaevu/static/js/runtime-main.369cb96c.js.map",
+    "static/js/2.03b2b789.chunk.js": "/Mamaevu/static/js/2.03b2b789.chunk.js",
+    "static/js/2.03b2b789.chunk.js.map": "/Mamaevu/static/js/2.03b2b789.chunk.js.map",
+    "index.html": "/Mamaevu/index.html",
+    "precache-manifest.d39447b27becc65f0461b16a27c23dd8.js": "/Mamaevu/precache-manifest.d39447b27becc65f0461b16a27c23dd8.js",
+    "service-worker.js": "/Mamaevu/service-worker.js",
+    "static/css/main.470a7d4c.chunk.css.map": "/Mamaevu/static/css/main.470a7d4c.chunk.css.map",
+    "static/js/2.03b2b789.chunk.js.LICENSE.txt": "/Mamaevu/static/js/2.03b2b789.chunk.js.LICENSE.txt",
+    "static/media/Cutar.png": "/Mamaevu/static/media/Cutar.f6449a2a.png",
+    "static/media/Efim.png": "/Mamaevu/static/media/Efim.887f5164.png",
+    "static/media/Filipp.png": "/Mamaevu/static/media/Filipp.4b0036b8.png",
+    "static/media/Innokentiy.png": "/Mamaevu/static/media/Innokentiy.8c0da4f2.png",
+    "static/media/Kirill.png": "/Mamaevu/static/media/Kirill.f592da20.png",
+    "static/media/Mamaevu.png": "/Mamaevu/static/media/Mamaevu.01113cee.png",
+    "static/media/N_MarkovI.png": "/Mamaevu/static/media/N_MarkovI.2bca882b.png",
+    "static/media/Nikolay_F_M.png": "/Mamaevu/static/media/Nikolay_F_M.125559ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369cb96c.js",
+    "static/js/2.03b2b789.chunk.js",
+    "static/css/main.470a7d4c.chunk.css",
+    "static/js/main.bce0b38f.chunk.js"
+  ]
+}
